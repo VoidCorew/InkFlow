@@ -3,7 +3,7 @@
 **InkFlow** — элегантное и интуитивно понятное приложение для заметок, созданное с помощью Flutter. Превратите ваши мысли в красиво оформленные заметки с лёгкостью.
 
 <p align="center">
-  <img src="/assets/icons/app_icon.png" alt="InkFlow Banner" width="400"/>
+  <img src="/assets/icons/app_icon.png" alt="InkFlow Banner" width="150"/>
 </p>
 
 <p align="center">
